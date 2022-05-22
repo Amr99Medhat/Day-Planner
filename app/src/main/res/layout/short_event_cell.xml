@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_5sdp"
+    android:background="@drawable/background_rectangle_shape"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/_10sdp">
+
+    <TextView
+        android:id="@+id/tv_eventCellTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:fontFamily="@font/ntailub"
+        android:textAlignment="center"
+        android:textColor="@color/color_icons_background"
+        android:textSize="@dimen/_18ssp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@color/white" />
+
+    <TextView
+        android:id="@+id/tv_eventCellDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:textColor="@color/color_text_primary"
+        android:textSize="@dimen/_13ssp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_eventCellTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:textColor="@color/color_text_primary"
+        android:textSize="@dimen/_13ssp"
+        android:textStyle="bold" />
+
+</LinearLayout>

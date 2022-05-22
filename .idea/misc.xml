@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable-v24/background_button_delete_shape.xml" value="0.4222222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/backgroud_splash_screen.xml" value="0.41574074074074074" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_action_bar.xml" value="0.3972222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_bottm_view.xml" value="0.3972222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_bottom_view.xml" value="0.3990740740740741" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_btn_set_event.xml" value="0.3972222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_button_delete_shape.xml" value="0.4222222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_button_set_event.xml" value="0.41574074074074074" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_button_shape.xml" value="0.3990740740740741" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_calendar_shape.xml" value="0.3990740740740741" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/background_rectangle_shape.xml" value="0.4222222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/backgroung_btn_set_event.xml" value="0.3972222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/ic_arrow_right.xml" value="0.3990740740740741" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/ic_next.xml" value="0.3972222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/drawable/ic_previous.xml" value="0.3972222222222222" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_all_events.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_event_edit.xml" value="0.3925925925925926" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_full_calendar.xml" value="0.35648148148148145" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_main.xml" value="0.2466607301869991" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_reset_password.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_sign_in.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_sign_up.xml" value="0.5" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/activity_splash_screen.xml" value="0.3731481481481482" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/calendar_cell.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/event_cell.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/long_event_cell.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/layout/short_event_cell.xml" value="0.42916666666666664" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.41574074074074074" />
+        <entry key="..\:/Users/Amr/AndroidStudioProjects/Dayplanner/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.41574074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Day planner</string>
+    <string name="feb_2022">Feb 2022</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thur">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="set_event">Set Event</string>
+    <string name="all_events">All Events</string>
+    <string name="calendar">Calendar</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="event">Event</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="check">Check</string>
+    <string name="verified_code">Verified code</string>
+    <string name="this_code_will_be_used_to_reset_your_password_next_time_so_keep_this_code">This code will be used to reset your password next time, so keep this code</string>
+</resources>
